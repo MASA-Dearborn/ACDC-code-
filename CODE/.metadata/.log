@@ -1,0 +1,18 @@
+!SESSION 2021-10-07 13:02:18.297 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-10-07 13:05:30.524
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-10-07 13:05:30.709
+!MESSAGE Log4j initialized with config file C:\Users\joshh\Desktop\MASA-D\git\2020-2021\ACDC-code-\CODE\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-10-07 13:05:37.981
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-10-07 13:09:20.647
+!MESSAGE Indexed 'ACDCcode' (22 sources, 82 headers) in 7.77 sec: 5,527 declarations; 29,503 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0057%)
